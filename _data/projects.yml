@@ -20,7 +20,7 @@
   description: A little C-written program emulating a shell, which helps the user learn Linux commands. With this project I learnt more about System calls and C language.
   
   # Quiz Game WS
-- project: Quiz game
+- project: Quiz Game
   duration: 2021
   url: "https://github.com/inakimoreno/WS"
   description: My first web project. Using PHP, HTML, JavaScript, Xml, Json and REST APIs, we developed a webpage to manage a Quiz game, with multiple functionalities. 
