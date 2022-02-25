@@ -1,16 +1,32 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Bet and ruin
+- project: Bet and Ruin
+  duration: 2021
+  url: "https://github.com/inakimoreno/oldbets"
+  description: A Java project for managing bets. It uses a three layer architecture. Graphical interface is done using Swing, and the object oriented DB used is ObjectDB.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Bet and ruin web
+- project: Bet and Ruin Web
+  duration: 2021
+  url: "https://github.com/inakimoreno/Bets20JSF"
+  description: A new version of the project above, but using JSF for providing a web version, Maven adapted, and using Hibernate framework for the data layer. 
+
+# MyShell
+- project: My shell
+  duration: 2021
+  url: "https://github.com/inakimoreno/IOS-Project"
+  description: A little C-written program emulating a shell, which helps the user learn Linux commands. With this project I learnt more about System calls and C language.
+  
+  # Quiz Game WS
+- project: Quiz game
+  duration: 2021
+  url: "https://github.com/inakimoreno/WS"
+  description: My first web project. Using PHP, HTML, JavaScript, Xml, Json and REST APIs, we developed a webpage to manage a Quiz game, with multiple functionalities. 
+
+  # Bet and ruin web
+- project: Mexify
+  duration: 2021
+  url: "https://github.com/inakimoreno/Mexify"
+  description: A second web project, it stands out because of the usage of a JavaScript library for music reproduction, apart from the technologies used for the Quiz game
