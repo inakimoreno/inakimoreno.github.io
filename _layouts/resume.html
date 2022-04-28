@@ -74,7 +74,7 @@
       <!-- end Education -->
       {% endif %}
 
-      {% if site.resume_section_experience %}
+      {% if site.resume_section_courses %}
       <!-- begin Experience -->
       <section class="content-section">
 
@@ -82,11 +82,11 @@
           <h2>Remarkable Courses</h2>
         </header>
 
-        {% for job in site.data.experience %}
+        {% for course in site.data.courses %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">&bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
+          <h3 class="resume-item-title" itemprop="name">{{ course.company }}</h3>
+          <h4 class="resume-item-details" itemprop="description">&bull; {{ course.duration }}</h4>
+          <p class="resume-item-copy">{{ course.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
 
