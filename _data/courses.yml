@@ -1,23 +1,23 @@
-- company: Object Oriented Modular Programming
+- name: Object Oriented Modular Programming
   duration: 2020
   summary: First approach to object oriented programming and modularity using Java.
 
-- company: Data Structures and Algorithms
+- name: Data Structures and Algorithms
   duration: 2020
   summary: Learnt about different sorting algorithms and multiple algorithms related with graphs and trees using Java. In depth analysis of recursive algorithms. 
 
-- company: Software Engineering I
+- name: Software Engineering I
   duration: 2021
   summary: First approach to three-layer software architecture. Learnt about software modeling using different artefacts. Learnt Git version control.	<ul class="resume-item-list"><li><a href="https://github.com/inakimoreno/oldbets">Bet and Ruin</a></li>
 
-- company: Databases
+- name: Databases
   duration: 2021
   summary: Learn principles of relational databases. Relational Algebra and SQL syntax. Developed a little project using JDBC.
 
-- company: Software Engineering II
+- name: Software Engineering II
   duration: 2021
   summary: In depth software testing, learnt concepts such as black box and white box testing. Used SonarLint for bug and code smell detection and analysis. Also learn to work with JUnit and Mockito. CD/CI and SOLID principles. JSF and Hibernate frameworks. <ul class="resume-item-list"><li><a href="https://github.com/inakimoreno/Bets20JSF">Bet and Ruin Web</a></li>
 
-- company: Web Systems
+- name: Web Systems
   duration: 2021
   summary: In this course we developed our first web project using PHP, JavaScript, HTML and other technologies. Apart from the theoretical contents, the course was mainly based on a Web Project development. <ul class="resume-item-list"><li><a href="https://github.com/inakimoreno/WS">Quiz Game</a></li>
