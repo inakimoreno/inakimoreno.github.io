@@ -2,11 +2,11 @@
   duration: 2022
   summary: Analysis, treatment and application of machine learning algorithms in large datasets.
 
-  - name: Mobile App Development
+- name: Mobile App Development
   duration: 2022
   summary: Android app development using Android Studio and Java. Mobile databases and functionalities.
 
-  - name: Concurrent Programming
+- name: Concurrent Programming
   duration: 2022
   summary: Fundamentals of concurrent programming and comprehensive coursework done in Java.
 
