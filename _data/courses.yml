@@ -1,3 +1,15 @@
+- name: Big Data Analytics
+  duration: 2022
+  summary: Analysis, treatment and application of machine learning algorithms in large datasets.
+
+  - name: Mobile App Development
+  duration: 2022
+  summary: Android app development using Android Studio and Java. Mobile databases and functionalities.
+
+  - name: Concurrent Programming
+  duration: 2022
+  summary: Fundamentals of concurrent programming and comprehensive coursework done in Java.
+
 - name: Object Oriented Modular Programming
   duration: 2020
   summary: First approach to object oriented programming and modularity using Java.
